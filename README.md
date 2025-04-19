@@ -14,7 +14,7 @@
   ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 - **Backend**  
-  ![Node.js](https://img.shields.io/badge/Node-339933?logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node-339933?logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
 - **Database**  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
@@ -23,7 +23,7 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 - **AI & Data**  
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shprk&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
