@@ -1,5 +1,4 @@
 다양한 기술을 활용해 더 나은 사용자 경험을 만드는 것에 관심이 많습니다.
-
 <br>
 I'm currently studying frontend development and I'm interested in creating better user experiences.
 
